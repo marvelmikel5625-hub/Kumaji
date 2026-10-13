@@ -1,0 +1,6 @@
+{
+  "name": "Kumaji - Multi-Vendor Marketplace",
+  "description": "Nigeria's premier multi-vendor e-commerce marketplace connecting buyers with verified sellers for phones, electronics, fashion, beauty, and lifestyle essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
